@@ -1,3 +1,3 @@
 Hi, there!
 
-![My profile views](https://komarev.com/ghpvc/?username=akshaygpt&color=blue&style=flat) since Nov 12, 2020
+![My profile views since Nov 12, 2020](https://komarev.com/ghpvc/?username=akshaygpt&color=blue&style=flat)
